@@ -1,0 +1,27 @@
+{
+    "editor.fontSize": 16,
+    "window.zoomLevel": 1,
+    "peacock.color": "magenta",
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.port": 5501,
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#ff33ff",
+        "activityBar.background": "#ff33ff",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#dfdf00",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#ff33ff",
+        "statusBar.background": "#ff00ff",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#ff33ff",
+        "statusBarItem.remoteBackground": "#ff00ff",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#ff00ff",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#ff00ff99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "cmake.sourceDirectory": "E:/Users/Public/Github_2024/PyranRanjith/GitHub/Flutter-Firebas/Flutter-Firebase-Model_1/linux"
+}
